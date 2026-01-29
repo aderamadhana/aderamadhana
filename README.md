@@ -19,7 +19,7 @@
 - **Database**: {SQL Server / MySQL / PostgreSQL} • indexing • query tuning
 - **Praktik**: clean structure • error handling • logging • dokumentasi • CI dasar
 
-## 🧰 Tech Stack (ringkas, tapi “berbobot”)
+## 🧰 Tech Stack
 - **ASP.NET Core**: Web API • EF Core • JWT/Auth • Swagger/OpenAPI • {Background job / caching}
 - **Laravel**: REST API • Eloquent • Queue • Validation • {Sanctum/JWT}
 - **CodeIgniter**: MVC • REST • modular structure
