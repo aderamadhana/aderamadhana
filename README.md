@@ -1,5 +1,5 @@
 <!-- Optional: banner -->
-<!-- ![Banner]({link-banner}) -->
+![Banner]({link-banner})
 
 <h1 align="center">Ade Ramadhana Pratama</h1>
 <p align="center">
